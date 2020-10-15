@@ -1,0 +1,4 @@
+#Thu Oct 15 12:46:12 ICT 2020
+base.0=D\:\\data ARBI\\KULIAH\\SEMESTER 5\\Teknologi dan Aplikasi Mobile\\MyIntentApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
