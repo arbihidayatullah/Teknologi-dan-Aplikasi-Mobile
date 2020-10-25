@@ -1,4 +1,4 @@
-package com.andoidstudio.myviewandviews;
+package com.andoidstudio.modul1intent;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.andoidstudio.myviewandviews", appContext.getPackageName());
+        assertEquals("com.andoidstudio.modul1intent", appContext.getPackageName());
     }
 }

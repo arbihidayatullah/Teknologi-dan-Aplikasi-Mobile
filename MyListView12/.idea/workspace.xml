@@ -10,211 +10,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b163e9a5-312c-47d0-887b-6ced7a248e08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/androidTest/java/com/andoidstudio/drecyclerview/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/java/com/andoidstudio/drecyclerview/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/src/test/java/com/andoidstudio/drecyclerview/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFlexibleFragment/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/andoidstudio/mylistview1/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/andoidstudio/mylistview1/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/andoidstudio/mylistview1/HeroAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/andoidstudio/mylistview1/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ahmad_dahlan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ahmad_yani.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/bung_tomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/gatot_subroto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ki_hadjar_dewantara.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/mohammad_hatta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/sudirman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/sukarno.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/supomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/tan_malaka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_hero.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/andoidstudio/mylistview1/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/androidTest/java/com/andoidstudio/mylistview/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/java/com/andoidstudio/mylistview/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/java/com/andoidstudio/mylistview/HeroAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/java/com/andoidstudio/mylistview/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/ahmad_dahlan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/ahmad_yani.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/__MACOSX/._asset_pahlawan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/__MACOSX/asset_pahlawan/._ahmad_dahlan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/__MACOSX/asset_pahlawan/._ahmad_yani.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/__MACOSX/asset_pahlawan/._bung_tomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/__MACOSX/asset_pahlawan/._gatot_subroto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/__MACOSX/asset_pahlawan/._ki_hadjar_dewantara.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/__MACOSX/asset_pahlawan/._mohammad_hatta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/__MACOSX/asset_pahlawan/._sudirman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/__MACOSX/asset_pahlawan/._sukarno.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/__MACOSX/asset_pahlawan/._supomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/__MACOSX/asset_pahlawan/._tan_malaka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/asset_pahlawan/ahmad_dahlan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/asset_pahlawan/ahmad_yani.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/asset_pahlawan/bung_tomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/asset_pahlawan/gatot_subroto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/asset_pahlawan/ki_hadjar_dewantara.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/asset_pahlawan/mohammad_hatta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/asset_pahlawan/sudirman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/asset_pahlawan/sukarno.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/asset_pahlawan/supomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/asset_pahlawan/asset_pahlawan/tan_malaka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/bung_tomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/gatot_subroto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/ki_hadjar_dewantara.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/mohammad_hatta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/sudirman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/sukarno.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/supomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/tan_malaka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/layout/item_hero.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/app/src/test/java/com/andoidstudio/mylistview/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListview1/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/androidTest/java/com/andoidstudio/myviewandviews/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/java/com/andoidstudio/myviewandviews/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/drawable/ic_collections_white_18dp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/drawable/photo_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/drawable/pixel_google.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/test/java/com/andoidstudio/myviewandviews/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dicoding/DRecyclerView/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dicoding/DRecyclerView/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Dicoding/DRecyclerView/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/androidTest/java/com/andoidstudio/mylistview/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/androidTest/java/com/andoidstudio/mylistview/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/java/com/andoidstudio/mylistview/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/java/com/andoidstudio/mylistview/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/java/com/andoidstudio/mylistview/HeroAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/java/com/andoidstudio/mylistview/HeroAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/java/com/andoidstudio/mylistview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/java/com/andoidstudio/mylistview/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/res/layout/item_hero.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/layout/item_hero.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/app/src/test/java/com/andoidstudio/mylistview/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/app/src/test/java/com/andoidstudio/mylistview/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListview1/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListview1/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/androidTest/java/com/andoidstudio/myviewandviews/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/androidTest/java/com/andoidstudio/myviewandviews/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/java/com/andoidstudio/myviewandviews/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/java/com/andoidstudio/myviewandviews/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/test/java/com/andoidstudio/myviewandviews/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/test/java/com/andoidstudio/myviewandviews/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

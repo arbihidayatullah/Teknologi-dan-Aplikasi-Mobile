@@ -1,4 +1,4 @@
-package com.andoidstudio.myviewandviews;
+package com.andoidstudio.modul1intent;
 
 import org.junit.Test;
 
